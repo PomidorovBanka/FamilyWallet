@@ -1,6 +1,6 @@
 namespace KhaiLaba.Core;
 
-//СервисУправленияСемьей
+//Управління додаванням та видаленням членів сім'ї
 
 public interface IFamilyManagementService
 {

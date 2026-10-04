@@ -1,6 +1,6 @@
 namespace KhaiLaba.Core;
 
-//ФинансоваяЦель
+//Финансова ціль
 
 public interface IFinancialGoal
 {

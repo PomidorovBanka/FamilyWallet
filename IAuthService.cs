@@ -1,6 +1,6 @@
 namespace KhaiLaba.Core;
 
-//СервисАвторизации
+//Сервіс аутентифікації та авторизації користувачів
 
 public interface IAuthService
 {

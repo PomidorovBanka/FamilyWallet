@@ -1,6 +1,6 @@
 namespace KhaiLaba.Core;
 
-//ЛимитБюджета
+//Ліміт бюджету для певної категорії транзакцій
 
 public interface IBudgetLimit
 {

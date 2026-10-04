@@ -1,6 +1,7 @@
 namespace KhaiLaba.Core;
 
-// СервисТранзакций
+// Клас із інформацією про транзакцію
+
 
 public interface ITransactionService
 {

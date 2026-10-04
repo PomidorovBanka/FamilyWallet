@@ -1,6 +1,6 @@
 namespace KhaiLaba.Core;
 
-//Транзакция
+//Інформація про транзакцію
 
 public interface ITransaction
 {

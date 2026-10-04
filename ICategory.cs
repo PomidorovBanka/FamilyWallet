@@ -1,6 +1,6 @@
 namespace KhaiLaba.Core;
 
-//Категория
+//Категорія транзакції
 
 public interface ICategory
 {

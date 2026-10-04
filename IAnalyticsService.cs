@@ -1,6 +1,6 @@
 namespace KhaiLaba.Core;
 
-// СервисАналитики
+//Сервіс аналітики для отримання статистики та звітів про транзакції користувача
 
 public interface IAnalyticsService
 {

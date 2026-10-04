@@ -1,6 +1,6 @@
 namespace KhaiLaba.Core;
 
-//Пользователь
+//Клас із інформацією про користувача
 
 public interface IUser
 {
