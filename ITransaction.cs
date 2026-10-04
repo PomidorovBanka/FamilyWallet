@@ -1,5 +1,7 @@
 namespace KhaiLaba.Core;
 
+//Транзакция
+
 public interface ITransaction
 {
     int Id { get; get; }

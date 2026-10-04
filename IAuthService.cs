@@ -1,5 +1,7 @@
 namespace KhaiLaba.Core;
 
+//СервисАвторизации
+
 public interface IAuthService
 {
     bool Register(string name, string email, string password);

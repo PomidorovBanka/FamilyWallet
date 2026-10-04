@@ -1,5 +1,7 @@
 namespace KhaiLaba.Core;
 
+//ЛимитБюджета
+
 public interface IBudgetLimit
 {
     int Id { get; get; }

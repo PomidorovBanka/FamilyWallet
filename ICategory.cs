@@ -1,5 +1,7 @@
 namespace KhaiLaba.Core;
 
+//Категория
+
 public interface ICategory
 {
     int Id { get; get; }

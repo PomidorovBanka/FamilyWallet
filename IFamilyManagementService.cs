@@ -1,5 +1,7 @@
 namespace KhaiLaba.Core;
 
+//СервисУправленияСемьей
+
 public interface IFamilyManagementService
 {
     void AddFamilyMember(int familyId, int userId);

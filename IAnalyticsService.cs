@@ -1,5 +1,7 @@
 namespace KhaiLaba.Core;
 
+// СервисАналитики
+
 public interface IAnalyticsService
 {
     decimal GetTotalExpenses(int userId, DateTime startDate, DateTime endDate);

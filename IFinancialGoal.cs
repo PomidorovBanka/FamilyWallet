@@ -1,5 +1,7 @@
 namespace KhaiLaba.Core;
 
+//ФинансоваяЦель
+
 public interface IFinancialGoal
 {
     int Id { get; get; }
