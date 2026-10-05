@@ -4,7 +4,7 @@ namespace KhaiLaba.Core;
 
 public interface IFinancialGoal
 {
-    int Id { get; get; }
+    int Id { get; set; }
     string Title { get; set; }
     decimal TargetAmount { get; set; }
     decimal CurrentAmount { get; set; }

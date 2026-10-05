@@ -4,7 +4,7 @@ namespace KhaiLaba.Core;
 
 public interface IBudgetLimit
 {
-    int Id { get; get; }
+    int Id { get; set; }
     decimal LimitAmount { get; set; }
     int CategoryId { get; set; }
     DateTime StartDate { get; set; }

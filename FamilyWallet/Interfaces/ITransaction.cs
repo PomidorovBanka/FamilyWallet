@@ -4,7 +4,7 @@ namespace KhaiLaba.Core;
 
 public interface ITransaction
 {
-    int Id { get; get; }
+    int Id { get; set; }
     decimal Amount { get; set; }
     DateTime Date { get; set; }
     int CategoryId { get; set; }

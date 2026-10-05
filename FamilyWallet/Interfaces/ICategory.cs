@@ -4,7 +4,7 @@ namespace KhaiLaba.Core;
 
 public interface ICategory
 {
-    int Id { get; get; }
+    int Id { get; set; }
     string Name { get; set; }
     bool IsExpense { get; set; }
 }
