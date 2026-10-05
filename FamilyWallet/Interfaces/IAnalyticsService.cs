@@ -1,4 +1,4 @@
-namespace KhaiLaba.Core;
+namespace FamilyWallet.Core;
 
 //Сервіс аналітики для отримання статистики та звітів про транзакції користувача
 

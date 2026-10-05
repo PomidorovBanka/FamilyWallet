@@ -1,4 +1,4 @@
-namespace KhaiLaba.Core;
+namespace FamilyWallet.Core;
 
 //Управління додаванням та видаленням членів сім'ї
 

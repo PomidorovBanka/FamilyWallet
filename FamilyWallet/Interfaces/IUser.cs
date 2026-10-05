@@ -1,10 +1,10 @@
-namespace KhaiLaba.Core;
+namespace FamilyWallet.Core;
 
 //Клас із інформацією про користувача
 
 public interface IUser
 {
-    int Id { get; get; }
+    int Id { get; set; }
     string Name { get; set; }
     string Email { get; set; }
 }

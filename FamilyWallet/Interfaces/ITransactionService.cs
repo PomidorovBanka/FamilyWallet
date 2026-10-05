@@ -1,4 +1,4 @@
-namespace KhaiLaba.Core;
+namespace FamilyWallet.Core;
 
 // Клас із інформацією про транзакцію
 

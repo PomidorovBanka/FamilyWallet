@@ -1,4 +1,4 @@
-namespace KhaiLaba.Core;
+namespace FamilyWallet.Core;
 
 //Сервіс аутентифікації та авторизації користувачів
 
